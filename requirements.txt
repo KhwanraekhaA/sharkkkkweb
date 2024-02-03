@@ -1,0 +1,12 @@
+Flask==3.0.0
+gunicorn==21.2.0
+ngrok==0.12.1
+opencv-python==4.9.0.80
+pillow==10.2.0
+platformdirs==2.5.2
+tensorflow==2.15.0
+torch>=1.0.0
+ultralytics==8.1.1
+uvicorn==0.25.0
+virtualenv==20.16.5
+waitress==2.1.2
